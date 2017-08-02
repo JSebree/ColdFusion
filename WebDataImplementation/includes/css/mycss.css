@@ -1,0 +1,20 @@
+div.topHeader {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+p.foot {
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    padding-top: 15%;
+}
+
+div.wrapper {
+    background-color: floralwhite;
+}
+
+div.main {
+    border-left:thin solid black;
+}

@@ -1,0 +1,16 @@
+#topHeader {
+    font-family: Helvetica;
+    font-size: 36px;
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 10px;
+    padding-top: 15%;
+}
+
+#wrapper {
+    background-color: floralwhite;
+}
